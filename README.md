@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 🔅 !</h1>
+<h1 align="left">Hi Everyone 🔥 !</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
