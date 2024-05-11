@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⦁ I'm a Information systems student, I've been working to develop myself in line with the career path I desire, focusing intensively on topics like Backend (Java Spring Boot) and iOS Development (Swift).</p>
+<p align="left">⦁ I'm a Information Systems student, I've been working to develop myself in line with the career path I desire, focusing intensively on topics like Backend (Java Spring Boot) and iOS Development (Swift).</p>
 
 ###
 
