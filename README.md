@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⦁ Spring Boot<br>⦁ Swift & SwiftUI<br>⦁ ML Concepts</p>
+<p align="left">⦁ Spring Boot<br>
 
 ###
 
